@@ -1,0 +1,13 @@
+body {
+    overflow-x: hidden;
+}
+.sidebar{
+    width: 250px;
+   color: #797676;
+   font-size: 16px;
+   
+}
+.card{
+   width: 245px;
+   border: none;
+}
